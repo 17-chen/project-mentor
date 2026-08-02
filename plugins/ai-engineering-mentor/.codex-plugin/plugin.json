@@ -1,0 +1,31 @@
+{
+  "name": "ai-engineering-mentor",
+  "version": "0.1.0",
+  "description": "把 AI Coding 项目与聊天转化为软件工程课程。Turn AI coding projects and conversations into software engineering courses.",
+  "author": {
+    "name": "Willings Chen",
+    "url": "https://github.com/17-chen"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AI Engineering Mentor · AI 工程导师",
+    "shortDescription": "把项目与聊天转化为适合初学者的软件工程课程。",
+    "longDescription": "Explain a project, understand selected code, or turn the current AI coding journey into a beginner-friendly Chinese software engineering course.",
+    "developerName": "Willings Chen",
+    "category": "Education",
+    "capabilities": [
+      "Explain Project · 讲解项目",
+      "Explain Code · 讲解代码",
+      "Teach Me · 导师教学"
+    ],
+    "defaultPrompt": "使用 AI 工程导师分析当前聊天和项目，先判断我适合使用讲解项目、讲解代码还是导师教学，然后用中文开始。"
+  },
+  "homepage": "https://github.com/17-chen/project-mentor",
+  "repository": "https://github.com/17-chen/project-mentor",
+  "license": "MIT",
+  "keywords": [
+    "ai-engineering",
+    "education",
+    "project-mentor"
+  ]
+}
