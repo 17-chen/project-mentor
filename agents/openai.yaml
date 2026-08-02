@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Mentor（AI 工程导师）"
+  short_description: "将项目、聊天记录与开发过程转化为适合初学者的中文软件工程课程"
+  default_prompt: "使用 $project-mentor 回顾当前聊天和项目进度，生成一份适合初学者的单文件工程课程。"
